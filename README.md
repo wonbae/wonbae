@@ -1,7 +1,8 @@
-//[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonbae)](https://github.com/wonbae/wonbae)
-
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonbae)](https://github.com/wonbae/wonbae)
 <!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonbae)](https://github.com/wonbae/wonbae)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonbae)](https://github.com/wonbae/wonbae)
+
 **wonbae/wonbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+go hard
